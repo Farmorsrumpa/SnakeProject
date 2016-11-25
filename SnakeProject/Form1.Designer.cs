@@ -169,7 +169,7 @@
             this.Controls.Add(this.btn_2);
             this.Controls.Add(this.btn_1);
             this.Name = "Form1";
-            this.Text = "Snake";
+            this.Text = "TicTacTor - Play it with your friends";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
