@@ -56,7 +56,7 @@ namespace SnakeProject
             }
         }
 
-        private void btn_2_Click(object sender, EventArgs e)
+        private void btn_2_Click(object sender, EventArgs e) //Samma kontroll sker på alla knappar
         {
             if (btn_2.Text == "X" || btn_2.Text == "O")
             {
